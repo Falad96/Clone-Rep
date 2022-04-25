@@ -1,0 +1,6 @@
+#container{
+    Display: flex;
+    flex-wrap: wrap;
+    border: 100px;
+    background-color: brown;
+}
